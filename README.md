@@ -1,2 +1,4 @@
-# Free-OtcV8Scripts
-a simple repository for scripts
+# Free-OtcV8BotScripts
+a simple repository for Bot scripts
+
+scripts for OTClientV8(github.com/otcv8/otcv8)
