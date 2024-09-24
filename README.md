@@ -8,3 +8,6 @@ scripts for [OTClientV8](https://github.com/OTCv8/otclientv8)
   - show functions and objects
     ![IMG1](img/methodsIMG1.jpg)
     ![IMG2](img/methodsIMG2.jpg)
+    
+- [Swap Equipment Se Script](/SwapEquipment.lua)
+  - ![IMG1](img/SwapEquipment.png)
