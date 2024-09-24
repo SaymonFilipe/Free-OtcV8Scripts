@@ -10,4 +10,5 @@ scripts for [OTClientV8](https://github.com/OTCv8/otclientv8)
     ![IMG2](img/methodsIMG2.jpg)
     
 - [Swap Equipment Se Script](/SwapEquipment.lua)
-  - ![IMG1](img/SwapEquipment.png)
+  - change equip if press button
+   ![IMG1](img/SwapEquipment.png)
